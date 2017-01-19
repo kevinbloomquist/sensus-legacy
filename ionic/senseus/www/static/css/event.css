@@ -311,7 +311,7 @@ border-color: red;
 }
 
 #event-name-container span, #event-name-container div , #event-name-container label {
-  font-size: 10px;
+  
 }
 
 #event-name-container #senseus-header span{
@@ -319,7 +319,7 @@ border-color: red;
 }
 
 .flex-row, .p0 {
-  padding:0;
+  
 }
 
 .pl1, #event-type-container .item-content {
