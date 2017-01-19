@@ -2575,6 +2575,7 @@ body, .ionic-body {
 
 body.grade-b, body.grade-c {
   text-rendering: auto; }
+}
 
 .content {
   position: relative; }
